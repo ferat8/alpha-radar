@@ -1,0 +1,34 @@
+{
+  "vc": {
+    "0x05e793ce0c6027323ac150f6d45c2344d28b6019": {
+      "label": "a16z",
+      "type": "VC",
+      "source": "etherscan"
+    },
+    "0x4570b4faf71e23942b8b9f934b47ccedf7540162": {
+      "label": "MetaCartel Ventures",
+      "type": "VC",
+      "source": "manual"
+    }
+  },
+  "whales": {},
+  "exchanges": {
+    "0x28c6c06298d514db089934071355e5743bf21d60": {
+      "label": "Binance Hot Wallet",
+      "type": "CEX",
+      "source": "public"
+    },
+    "0x21a31ee1afc51d94c2efccaa2092ad1028285549": {
+      "label": "Binance Hot Wallet 2",
+      "type": "CEX",
+      "source": "public"
+    }
+  },
+  "market_makers": {},
+  "_meta": {
+    "version": "0.1.0",
+    "last_updated": "2026-03-16",
+    "total_wallets": 4,
+    "sources": ["etherscan", "arkham", "nansen", "manual"]
+  }
+}
