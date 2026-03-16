@@ -1,0 +1,37 @@
+{
+  "name": "alpha-radar",
+  "version": "1.0.0",
+  "description": "Real-time whale & smart money tracking API powered by X402",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "node src/test.js"
+  },
+  "keywords": [
+    "x402",
+    "whale-tracking",
+    "crypto",
+    "base",
+    "api",
+    "smart-money"
+  ],
+  "author": "ferat8",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "x402-express": "^0.2.0",
+    "ethers": "^6.9.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferat8/alpha-radar.git"
+  }
+}
