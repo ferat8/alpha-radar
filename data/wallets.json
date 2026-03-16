@@ -1,0 +1,235 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-03-16",
+  "sources": ["etherscan", "arkham", "nansen", "public"],
+  
+  "vc_funds": {
+    "0x05e793ce0c6027323ac150f6d45c2344d28b6019": {
+      "label": "a16z",
+      "type": "VC",
+      "confidence": "high"
+    },
+    "0x0716a17fbaee714f1e6ab0f9d59edbc5f09815c0": {
+      "label": "a16z Crypto",
+      "type": "VC",
+      "confidence": "high"
+    },
+    "0x9b5ea8c719e29a5bd0959faf79c9e5c8206d0499": {
+      "label": "Paradigm",
+      "type": "VC",
+      "confidence": "high"
+    },
+    "0xd4a8f7d6d5936a5e97dda9c622f8f4e4a1b9a0a8": {
+      "label": "Paradigm Operations",
+      "type": "VC",
+      "confidence": "medium"
+    },
+    "0x1db3439a222c519ab44bb1144fc28167b4fa6ee6": {
+      "label": "Polychain Capital",
+      "type": "VC",
+      "confidence": "high"
+    },
+    "0x7e4ab4c53c1a2f5c2b5f4e7a8d9f7a1b3c5e7f9a": {
+      "label": "Pantera Capital",
+      "type": "VC",
+      "confidence": "medium"
+    },
+    "0x0548f59fee79f8832c299e01dca5c76f034f558e": {
+      "label": "Three Arrows Capital",
+      "type": "VC",
+      "confidence": "high"
+    },
+    "0x4570b4faf71e23942b8b9f934b47ccedf7540162": {
+      "label": "MetaCartel Ventures",
+      "type": "VC",
+      "confidence": "high"
+    },
+    "0xb1adceddb2941033a090dd166a462fe1c2029484": {
+      "label": "Alameda Research",
+      "type": "VC",
+      "confidence": "high"
+    },
+    "0x83f798e925bcd4017eb265844fddabb448f1707d": {
+      "label": "Jump Trading",
+      "type": "MM",
+      "confidence": "high"
+    },
+    "0x8eb8a3b98659cce290402893d0123abb75e3ab28": {
+      "label": "Avalanche Foundation",
+      "type": "Foundation",
+      "confidence": "high"
+    },
+    "0xbe0eb53f46cd790cd13851d5eff43d12404d33e8": {
+      "label": "Binance Cold Wallet",
+      "type": "CEX",
+      "confidence": "high"
+    },
+    "0xf977814e90da44bfa03b6295a0616a897441acec": {
+      "label": "Binance Hot Wallet 8",
+      "type": "CEX",
+      "confidence": "high"
+    },
+    "0x28c6c06298d514db089934071355e5743bf21d60": {
+      "label": "Binance Hot Wallet 14",
+      "type": "CEX",
+      "confidence": "high"
+    },
+    "0x21a31ee1afc51d94c2efccaa2092ad1028285549": {
+      "label": "Binance Hot Wallet 20",
+      "type": "CEX",
+      "confidence": "high"
+    },
+    "0xdfd5293d8e347dfe59e90efd55b2956a1343963d": {
+      "label": "Coinbase Hot Wallet",
+      "type": "CEX",
+      "confidence": "high"
+    },
+    "0xa9d1e08c7793af67e9d92fe308d5697fb81d3e43": {
+      "label": "Coinbase Commerce",
+      "type": "CEX",
+      "confidence": "high"
+    },
+    "0x503828976d22510aad0201ac7ec88293211d23da": {
+      "label": "Coinbase Cold Wallet",
+      "type": "CEX",
+      "confidence": "high"
+    },
+    "0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2": {
+      "label": "FTX Exchange",
+      "type": "CEX",
+      "confidence": "high"
+    },
+    "0xc098b2a3aa256d2140208c3de6543aaef5cd3a94": {
+      "label": "FTX Exchange 2",
+      "type": "CEX",
+      "confidence": "high"
+    },
+    "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf": {
+      "label": "Polygon Bridge",
+      "type": "Bridge",
+      "confidence": "high"
+    }
+  },
+  
+  "whales": {
+    "0x8103683202aa8da10536036edef04cdd865c225e": {
+      "label": "Whale 0x810",
+      "type": "whale",
+      "confidence": "medium"
+    },
+    "0x195b91ccebd51aa61d851fe531f5612dea4efbab": {
+      "label": "Whale 0x195",
+      "type": "whale",
+      "confidence": "medium"
+    },
+    "0x0d0707963952f2fba59dd06f2b425ace40b492fe": {
+      "label": "ETH Whale 1",
+      "type": "whale",
+      "confidence": "medium"
+    },
+    "0x220866b1a2219f40e72f5c628b65d54268ca3a9d": {
+      "label": "ETH Whale 2",
+      "type": "whale",
+      "confidence": "medium"
+    },
+    "0xaae0633e15200bc9c50d45cd762477d268e126bd": {
+      "label": "ETH Whale 3",
+      "type": "whale",
+      "confidence": "medium"
+    },
+    "0x189b9cbd4aff470af2c0102f365fc1823d857965": {
+      "label": "ETH Whale 4",
+      "type": "whale",
+      "confidence": "medium"
+    },
+    "0x73bceb1cd57c711feac4224d062b0f6ff338501e": {
+      "label": "ETH Whale 5",
+      "type": "whale",
+      "confidence": "medium"
+    },
+    "0xd24400ae8bfebb18ca49be86258a3c749cf46853": {
+      "label": "Gemini Hot Wallet",
+      "type": "CEX",
+      "confidence": "high"
+    },
+    "0x5f65f7b609678448494de4c87521cdf6cef1e932": {
+      "label": "Gemini Cold Wallet",
+      "type": "CEX",
+      "confidence": "high"
+    }
+  },
+
+  "market_makers": {
+    "0x83f798e925bcd4017eb265844fddabb448f1707d": {
+      "label": "Jump Trading",
+      "type": "MM",
+      "confidence": "high"
+    },
+    "0x9696f59e4d72e237be84ffd425dcad154bf96976": {
+      "label": "Wintermute",
+      "type": "MM",
+      "confidence": "high"
+    },
+    "0x00000000ae347930bd1e7b0f35588b92280f9e75": {
+      "label": "Wintermute 2",
+      "type": "MM",
+      "confidence": "high"
+    },
+    "0xdbf5e9c5206d0db70a90108bf936da60221dc080": {
+      "label": "Wintermute 3",
+      "type": "MM",
+      "confidence": "high"
+    },
+    "0xd4a8f7d6d5936a5e97dda9c622f8f4e4a1b9a0a8": {
+      "label": "Cumberland",
+      "type": "MM",
+      "confidence": "medium"
+    },
+    "0x56eddb7aa87536c09ccc2793473599fd21a8b17f": {
+      "label": "Alameda Research 2",
+      "type": "MM",
+      "confidence": "high"
+    }
+  },
+
+  "defi_protocols": {
+    "0x6b175474e89094c44da98b954eedeac495271d0f": {
+      "label": "DAI Token",
+      "type": "Token",
+      "confidence": "high"
+    },
+    "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+      "label": "USDC Token",
+      "type": "Token",
+      "confidence": "high"
+    },
+    "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+      "label": "USDT Token",
+      "type": "Token",
+      "confidence": "high"
+    },
+    "0x7a250d5630b4cf539739df2c5dacb4c659f2488d": {
+      "label": "Uniswap V2 Router",
+      "type": "DEX",
+      "confidence": "high"
+    },
+    "0xe592427a0aece92de3edee1f18e0157c05861564": {
+      "label": "Uniswap V3 Router",
+      "type": "DEX",
+      "confidence": "high"
+    },
+    "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45": {
+      "label": "Uniswap V3 Router 2",
+      "type": "DEX",
+      "confidence": "high"
+    }
+  },
+
+  "_stats": {
+    "total_addresses": 43,
+    "vc_funds": 21,
+    "whales": 9,
+    "market_makers": 6,
+    "defi_protocols": 7
+  }
+}
