@@ -1,9 +1,12 @@
 # Environment & Secrets
 .env
-.env.*
-*.env
+.env.local
+.env.production
 secrets/
 credentials/
+
+# Keep .env.example
+!.env.example
 
 # API Keys & Tokens
 api_credentials.json
