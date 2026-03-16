@@ -1,0 +1,49 @@
+# Environment & Secrets
+.env
+.env.*
+*.env
+secrets/
+credentials/
+
+# API Keys & Tokens
+api_credentials.json
+*_credentials.json
+*.key
+*.pem
+*.secret
+
+# Wallets & Crypto
+*seed*
+*mnemonic*
+*keystore*
+*private_key*
+wallet.json
+*.wallet
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Session files
+session/
+*.session
+
+# Test
+coverage/
+.nyc_output/
